@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8F0BC32D-D945-499D-80DE-F47E65E6F8C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmazonSimpleEmail.API", "src\AmazonSimpleEmail.API\AmazonSimpleEmail.API.csproj", "{A5331C63-6090-41D7-A99C-60D0A025599D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5331C63-6090-41D7-A99C-60D0A025599D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5331C63-6090-41D7-A99C-60D0A025599D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5331C63-6090-41D7-A99C-60D0A025599D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5331C63-6090-41D7-A99C-60D0A025599D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A5331C63-6090-41D7-A99C-60D0A025599D} = {8F0BC32D-D945-499D-80DE-F47E65E6F8C5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51EAD093-320D-4D3E-9AFB-982FBC94E21F}
+	EndGlobalSection
+EndGlobal
