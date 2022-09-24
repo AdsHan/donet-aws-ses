@@ -1,4 +1,4 @@
-# donet-aws-ses
+# dotnet-aws-ses
 Demonstração de como podemos enviar e-mails utilizando as bibliotecas Mimekit e Mailkit em conjunto com o Amazon Simple Email Service (SES).  
 
 # Como executar:
